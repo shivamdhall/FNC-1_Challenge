@@ -7,3 +7,5 @@ A number of features are generated from the data including lexical matching feat
 and features based on language model representations of headline and article body pairs.
 
 The machine learning models implemented are linear regressoin, logistic regression, random-forest calssification and a MLP neural network.
+
+The FNC-1 dataset can be downloaded from https://github.com/FakeNewsChallenge/fnc-1
