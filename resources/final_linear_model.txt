@@ -1,0 +1,1 @@
+Final model accuracy: 0.801461, Weighted F1 Score 0.759977 

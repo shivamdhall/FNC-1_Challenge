@@ -1,0 +1,6 @@
+Model learning rate: 0.100000,  Model Accuracy: 0.890956, Model F1 Score 0.860586 
+Model learning rate: 0.010000,  Model Accuracy: 0.895359, Model F1 Score 0.864228 
+Model learning rate: 0.001000,  Model Accuracy: 0.894758, Model F1 Score 0.870348 
+Model learning rate: 0.000100,  Model Accuracy: 0.879352, Model F1 Score 0.841051 
+Model learning rate: 0.000010,  Model Accuracy: 0.761905, Model F1 Score 0.658082 
+Model learning rate: 0.000001,  Model Accuracy: 0.677271, Model F1 Score 0.591544 
